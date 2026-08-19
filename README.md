@@ -29,10 +29,11 @@ Proveer las bases teóricas y prácticas para comprender, diseñar y ejecutar es
 
 **Calendario**
 ---
-| Clase	| Unidad	| Tema	| Actividades |
-|-------|------|-------|-------|
-|5	|Unidad 4	|Función de las especies |	Práctica 1 Artículo 1|
-|6	|Unidad 4	|Preferencias ambientales y cambios en el hábitat	|Práctica 2 Artículo 2|
-|7	|Unidad 4	|Conservadurismo de nicho|	Práctica 3 Artículo 3|
-|8	|Unidad 5 |Diversidad filogenética |	Práctica 4 Artículo 4|
-|9	|Unidad 5	|Métodos bioacústicos	| Invitado|
+| Clase	| Unidad	| Tema	| Discusión | Prácticas |
+|-------|------|-------|-------|---------|
+|6	|Unidad 4	|Función de las especies |	 Artículo 1| Práctica 1 |
+|7	|Unidad 4	|Preferencias ambientales y cambios en el hábitat	| Artículo 2|Práctica 2 |
+|8	|Unidad 4	|Conservadurismo de nicho|	 Artículo 3|Práctica 3 |
+|9	|Unidad 5 |Diversidad filogenética |	 Artículo 4|Práctica 4 |
+|10	|Unidades 4-5 | Unidades 4-5 |	Seminario|
+|11	|Unidad 5	|Métodos bioacústicos	| Invitado|
