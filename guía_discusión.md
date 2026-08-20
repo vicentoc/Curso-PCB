@@ -126,7 +126,7 @@ breadths over time as they change in niche position. \
 change in niche position and the rate of change in niche breadth. \
 **Información tomada de [(Moreira et al 2024)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14802)**
 
-**Ejemplo**
+**Ejemplo:** Relationship between regional distribution and local abundance in stream insects.  \
 ** Variables ambientales** \
 ![](figuras/nicho_vars.png)
 
