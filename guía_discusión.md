@@ -98,7 +98,6 @@ Correlación positiva entre:  \
 
 ![](figuras/esquema_de_rasgos.png) \
 
-
 [Species niches, not traits, determine abundance and occupancy patterns: A multi‐site synthesis (Marino et al 2019).](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13029)
 
 "The trait distinctiveness of each species was unrelated to its niche properties, abundance and occupancy. In contrast, niche position was the main predictor of
@@ -126,13 +125,32 @@ breadths over time as they change in niche position. \
 change in niche position and the rate of change in niche breadth. \
 **Información tomada de [(Moreira et al 2024)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14802)**
 
+**Ejemplo**
+** Variables ambientales** \
+![](figuras/nicho_vars.png)
+
+**OMI analysis** \
+![](figuras/nicho_pos.png)
+
+**Relationship** \
+![](figuras/relaciones_nb_np.png)}
+**Información tomada de [(Heino 2005)](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.0906-7590.2005.04151.x)**
+
 **Artículo de discusión 1:** \
 [Niche Breadth: Causes and Consequences for Ecology, Evolution, and Conservation (Carscadden et al., 2020.)](https://www.journals.uchicago.edu/doi/10.1086/710388)
 
-**Práctica 4.2: Algunas propiedades del nicho.** \
+**Práctica 4.2 Métricas del nicho: posición y amplitud.** \
 Estimar la posición y la amplitud del nicho para un set de espcies. \
 Para la práctica seguiremos el tutorial de [(KarasiewiczStephane/WitOMI).](https://github.com/KarasiewiczStephane/WitOMI) \
 Más información en [Within outlying mean indexes: refining the OMI analysis for the realized niche decomposition (Karasiewicz et al., 2017).](https://pmc.ncbi.nlm.nih.gov/articles/PMC5444369/)
+
+**OMI analysis** \
+La posición del nicho y la amplitud del nicho se determinaron mediante un análisis OMI (Outlying Mean Index;[Dolédec et al., 2000]( Dolédec et al., 2000)).\
+Este método mide la marginalidad de la distribución del hábitat de las especies, es decir, la distancia entre las condiciones promedio del hábitat utilizadas por una especie y las condiciones promedio del hábitat en toda el área de estudio. 
+
+La posición de una especie depende de su desviación respecto a la distribución de una especie hipotética que tolera condiciones de hábitat “promedio” y que se distribuye uniformemente a través de todas las condiciones ambientales. Por lo tanto, el índice OMI mide la posición ecológica de cada especie: las especies con valores altos de OMI presentan nichos marginales, mientras que aquellas con valores bajos ocupan nichos no marginales. 
+
+Una segunda variable derivada de este método es la tolerancia de la especie, que mide la amplitud de la distribución de cada especie a lo largo de los gradientes ambientales muestreados; i.e. **la amplitud del nicho**. Las especies con valores altos de tolerancia se encuentran en condiciones ambientales muy diversas (generalistas; amplia amplitud de nicho), mientras que las especies con valores bajos ocurren únicamente en un rango limitado de condiciones (especialistas; reducida amplitud de nicho).
 
 **Más información acerca de estos análisis en R** 
 - [Analysis of Ecological Data: Exploratory and Euclidean Methods in Environmental Sciences (ade4).](https://adeverse.github.io/ade4/) 
@@ -144,7 +162,6 @@ Más información en [Within outlying mean indexes: refining the OMI analysis fo
 - [Estimates of niche position and breadth vary across spatial
 scales for native and alien inland fishes (Cano-Barbacil et al., 2022).](https://invasiber.org/GarciaBerthou/docs/papers/Cano‐Barbacil_GEB_2022_withSI.pdf)
  
-
 ## 4.3 Cambios en el hábitat
 Los cambios en las condiciones abióticas son inevitables.
 
@@ -218,7 +235,6 @@ Esta práctica está basada en:
 - [NicheToolBox (Osorio-Olvera et al 2019)](https://github.com/luismurao/ntbox).
 - [ntbox (Osorio-Olvera et al 2019)](https://luismurao.github.io/ntbox_user_guide.html).
 
-
 ### Modelos de Nicho Ecológico 
 #### Breve discusión sobre "El arte de modelar"
 
@@ -235,7 +251,6 @@ Mérida - Dr. Carlos Yanes et al. \
 Analisis espacial - Dr. David Prieto et al. \
 YouTube - Dr. AT. Peterson et al. 
 
-
 ## 4.4 Conservadurismo de nicho
 Es la tendencia que especies relacionadas presenten nichos similares (fundamental o realizado; [Pearman et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18289716/)).
 
@@ -243,7 +258,6 @@ Es la tendencia que especies relacionadas presenten nichos similares (fundamenta
 ![](figuras/pnc_factors_and_consequences.png) \
 Factores endógenos de restricción sobre los fenotipos hasta los factores exógenos de selección ecológica. \
 Esto conduce a los patrones principales del CFN, incluyendo conservadurismo, restricción y divergencia de nichos entre especies.
-
 
 #### Conservadurismo de nicho como patrón
 En el contexto de la especiación, el CFN actúa sobre las poblaciones locales para producir múltiples especies. La población local es, por lo tanto, la unidad fundamental del CNP para la especiación, pero el impacto del CNP es crucial para interpretar los patrones subsecuentes de ensamblaje de comunidades, diversidad regional y biogeografía a niveles más altos a lo largo de la filogenia.
@@ -265,13 +279,11 @@ El CFN como proceso puede llevar potencialmente a la divergencia de nichos en h�
 
 El CFN como proceso (retención instantánea de nichos) podría promover la especiación (CFN como patrón), resultando ya sea en divergencia de nichos o en conservadurismo de nichos.
 
-
 **Factores que pueden influir en la especiación a través del CFN** \
 ![](figuras/pnc_geografia.png) \
  Los eventos de especiación que ocurren en diferentes puntos a lo largo de estos ejes pueden resultar en diferentes patrones como se describe arriba de los gráficos, incluyendo conservadurismo y difernciación. \
 La **curva I** representa una variable ambiental que cambia lentamente de un valor alto a uno bajo, con poblaciones adaptadas a cada extremo encontrándose en el medio. \
 La **curva II** representa dos áreas ecológicamente similares separadas por un valor intermedio más alto para una variable ambiental dada, con dos poblaciones igualmente adaptadas acercándose al borde de sus límites de rango en esa área. 
-
 
 **Artículo de discusión 3:** \
 [Phylogenetic niche conservatism and the evolutionary basis of ecological speciation (Pyron et al., 2014).](https://onlinelibrary.wiley.com/doi/10.1111/brv.12154)
@@ -374,15 +386,12 @@ Esta práctica está basada en:
 - [NicheToolBox (Osorio-Olvera et al 2019)](https://github.com/luismurao/ntbox).
 - [ntbox (Osorio-Olvera et al 2019)](https://luismurao.github.io/ntbox_user_guide.html).
 
-
 **Recomendaciones:** 
 - [Combining niche shift and population genetic analyses predicts rapid phenotypic evolution during invasion (Sotka et al., 2018).](https://pmc.ncbi.nlm.nih.gov/articles/PMC5978718/)
 - [The evolutionary genomics of species’ responses to climate change (Aguirre-Liguori et al., 2021).](https://www.nature.com/articles/s41559-021-01526-9)
 - [Niche models at inter‑ and intraspecifc levels reveal
 hierarchical niche diferentiation in midwife toads (Rodríguez‑Rodríguez  et al., 2020).](https://www.nature.com/articles/s41598-020-67992-6)
 - [Combining niche shift and population genetic analyses predicts rapid phenotypic evolution during invasion (Sotka  et al., 2018).](https://onlinelibrary.wiley.com/doi/10.1111/eva.12592)
-
-
 
 **PCB** \
 **2025-2** \
@@ -404,7 +413,6 @@ Higher PD values are given to communities that has more evolutionary divergent t
 
 Many ecological patterns are processes are not independent of the evolution of the lineages involved in generating these patterns.
 ![](figuras/ejemplo.png)
-
 
 Related species often have similar functional traits, niches and ecological interactions, suggesting that phylogenetic diversity may encapsulate many of the functionally important aspects of biodiversity. Hence, PD is related to ecosystem function [Srivastava et al., 2012.](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2012.01795.x)
 ![](figuras/pd_ecosystem_function.png)
@@ -432,7 +440,5 @@ If communities are assembled independently with respect to traits (e.g., Hubbell
 Phylogenetic diversity and the functioning of ecosystems [Srivastava et al., 2012.](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2012.01795.x) 
 
 Acá un excelente manual de *Community Phylogenetics in R* por [Pedro Henrique P. Braga & Katherine Hébert](https://pedrohbraga.github.io/CommunityPhylogenetics-Workshop/CommunityPhylogenetics-Workshop.html).
-
-
 
 
