@@ -6,7 +6,7 @@
 ## Teoría y métodos de estudio de nicho ecológico
 
 ### Algunas definiciones:
-**[Grinell (1917):](https://sora.unm.edu/sites/default/files/journals/auk/v034n04/p0427-p0433.pdf)** 
+**[Grinell (1917):](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=7985&context=auk)** 
 La distribución de un taxón está limitada a un conjunto de ambientes y hábitats a los que su comportamiento y morfología están mejor adaptados.
 
 ***Toxostoma redivivum***
@@ -14,7 +14,7 @@ La distribución de un taxón está limitada a un conjunto de ambientes y hábit
 
 ![](figuras/grinell_1917.png)
 
-**[Charles Elton (1927):](https://www.biodiversitylibrary.org/item/31642#page/69/mode/1up)**  El nicho debe describir lo que hace un animal en su comunidad, sus interacciones bióticas, los recursos que consume, su relación con el medio y como lo modifica. Por ejemplo, equivalentes ecológicos.
+**[Charles Elton (1927):](https://www.biodiversitylibrary.org/item/31642#page/69/mode/1p)**  El nicho debe describir lo que hace un animal en su comunidad, sus interacciones bióticas, los recursos que consume, su relación con el medio y como lo modifica. Por ejemplo, equivalentes ecológicos.
 
 ![](figuras/elton_statement.png)
 
@@ -424,5 +424,3 @@ If communities are assembled independently with respect to traits (e.g., Hubbell
 
 **Artículo de discusión:**\
 Phylogenetic diversity and the functioning of ecosystems [Srivastava et al., 2012.](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2012.01795.x) 
-
-Acá un excelente manual de *Community Phylogenetics in R* por [Pedro Henrique P. Braga & Katherine Hébert](https://pedrohbraga.github.io/CommunityPhylogenetics-Workshop/CommunityPhylogenetics-Workshop.html).
