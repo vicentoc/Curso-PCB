@@ -404,7 +404,7 @@ At the community level, phylogenetic clustering which is often regarded as evide
 
 ![](figuras/pd_over_cluster.png)
 
-De acuerdo con [Webb et al., 2002:](https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.33.010802.150448) \
+De acuerdo con [Webb et al., 2002:](https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.33.010802.150448)
 - When species **traits** responsible for their physiological tolerances are **conserved**, an **environmental filtering** that limits the range of viable ecological strategies at a given site is expected to select **co-occurring species more related** than expected by chance, i.e. generate a pattern known as **phylogenetic clustering**.
 
 - **Competitive exclusion** can limit the ecological similarity of co-occurring species, generating a pattern of **phylogenetic overdispersion** or **phylogenetic evenness**.
