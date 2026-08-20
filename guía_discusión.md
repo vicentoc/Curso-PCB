@@ -400,24 +400,17 @@ Many ecological patterns are processes are not independent of the evolution of t
 Related species often have similar functional traits, niches and ecological interactions, suggesting that phylogenetic diversity may encapsulate many of the functionally important aspects of biodiversity. Hence, PD is related to ecosystem function [Srivastava et al., 2012.](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2012.01795.x)
 ![](figuras/pd_ecosystem_function.png)
 
-At the community level, phylogenetic clustering which is often regarded as evidence of environmental filtering, while phylogenetic overdispersion is often associated to limiting similarity. 
-![](figuras/pd_patterns.png)
+At the community level, phylogenetic clustering which is often regarded as evidence of environmental filtering, while phylogenetic overdispersion is often associated to limiting similarity. \
 
-**Nota:** Nevertheless, these hypothetical links assume many ecological and evolutionary processes.
+![](figuras/pd_over_cluster.png)
 
-![](figuras/table1_webb.png)\
-[Webb et al., 2002.](https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.33.010802.150448)\
-When species **traits** responsible for their physiological tolerances are **conserved**, an **environmental filtering** that limits the range of viable ecological strategies at a given site is expected to select **co-occurring species more related** than expected by chance, i.e. generate a pattern known as **phylogenetic clustering**.
+De acuerdo con [Webb et al., 2002:](https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.33.010802.150448) \
+- When species **traits** responsible for their physiological tolerances are **conserved**, an **environmental filtering** that limits the range of viable ecological strategies at a given site is expected to select **co-occurring species more related** than expected by chance, i.e. generate a pattern known as **phylogenetic clustering**.
 
-**Competitive exclusion** can limit the ecological similarity of co-occurring species, generating a pattern of **phylogenetic overdispersion** or **phylogenetic evenness**.
+- **Competitive exclusion** can limit the ecological similarity of co-occurring species, generating a pattern of **phylogenetic overdispersion** or **phylogenetic evenness**.
 
-When **traits are diverging faster** across the evolutionary time, the effects of habitat filtering should be weaker, producing **evenly dispersed patterns** of relatedness.
+- When **traits are diverging faster** across the evolutionary time, the effects of habitat filtering should be weaker, producing **evenly dispersed patterns** of relatedness.
 
-![](figuras/convergence.png)
+- **Competition** or limiting similarity is expected to produce **random** or **clustered patterns**.
 
-**Competition** or limiting similarity is expected to produce **random** or **clustered patterns**.
-
-If communities are assembled independently with respect to traits (e.g., Hubbell 2001), then patterns of relatedness should be resemble random expectation.
-
-**Artículo de discusión:**\
-Phylogenetic diversity and the functioning of ecosystems [Srivastava et al., 2012.](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2012.01795.x) 
+- If communities are assembled independently with respect to traits (e.g., Hubbell 2001), then patterns of relatedness should be resemble **random expectation**.
