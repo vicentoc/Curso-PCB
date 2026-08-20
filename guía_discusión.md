@@ -130,10 +130,10 @@ change in niche position and the rate of change in niche breadth. \
 ** Variables ambientales** \
 ![](figuras/nicho_vars.png)
 
-**OMI analysis** \
+**Análisis OMI** \
 ![](figuras/nicho_pos.png)
 
-**Relationship** \
+**Relación abundacia-nicho** \
 ![](figuras/relaciones_nb_np.png)}
 **Información tomada de [(Heino 2005)](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.0906-7590.2005.04151.x)**
 
