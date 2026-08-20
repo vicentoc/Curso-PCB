@@ -28,7 +28,6 @@ Solo una especie puede persistir en la región de intersección del subconjunto.
 Las líneas que unen puntos equivalentes en el espacio de nicho y el espacio de biotopo indican la relación entre los dos espacios. \
 La distribución de las dos especies involucradas se muestra en el panel derecho con una curva de temperatura en profundidad.
 
-
 ![](figuras/hutchinson_1957.png)
 
 **Conclusión:** Cuando hablamos de **nicho** tenemos que tener en cuenta la definición que estamos siguiendo, porque como vimos, nicho puede significar predominancia de las interacciones bióticas, o  su ausencia y énfasis en las condiciones abióticas.
@@ -45,10 +44,6 @@ Como se distribuyen esos mismos biomas en el espacio ambiental con base en los d
 
 Práctica 4.1: Espacio geográfico y espacio ambiental.
 Los materiales necesarios para replicar las imágenes de los biomas de América en el espacio geográfico y ecológico se encuentran en la carpeta practica3_espacio_ecol_and_geog.
-
-Ejercicio
-Haz un ejercicio similar para una región de tu interés.
-
 
 ## 4.2 Preferencias ambientales
 Las características de las especies determinan el rango de condiciones ambientales en las que cada especie puede estar presente, y se espera que las abundancias alcancen su máximo cuando las características coinciden mejor con las condiciones ambientales (Heino & Grönroos, 2014).
@@ -92,6 +87,8 @@ Correlación positiva entre:  \
 (2) la distribución y el número de celdas de hábitat de cría en el paisaje.  \
 (3) La abundancia y la distribución.
 
+**Conclusión:** Las especies que tienen un nicho marginal (poca disponibilidad de hábitat) tienen distribuciones más restringidas y menos abundantes respecto de las especies con un nicho central, capaces de distribuirse en las condiciones promedio del hábitat (elevada disponibilidad de hábitat [(Heino 2005)](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.0906-7590.2005.04151.x).
+
 **Hipótesis de las relaciones entre la rasgos, la amplitud del nicho, la posición del nicho, la abundancia y la ocupación.** \
 ![](figuras/niche_position.png)
 
@@ -112,7 +109,7 @@ abundance and occupancy; species that used the most common environmental conditi
 - Los patrones de abundancia y ocupación pueden estar determinados por combinaciones de varias características en lugar de por características individuales (por ejemplo, el tamaño corporal y el gremio trófico.
 - La distinción de cada especie en términos de composición de características en comparación con el resto de la comunidad puede ser un factor clave.
 
-**Relaciones entre variables si la especiación relacionada con nicho climático está asociada con la hipotesis de oscilación o el juego de las sillas**
+### Relaciones entre variables si la especiación relacionada con nicho climático está asociada con la hipótesis de oscilación o el juego de las sillas
 
 ![](figuras/nicho_hyphothesis.png)
 
@@ -126,7 +123,8 @@ breadths over time as they change in niche position. \
 (b2) Given climate-related speciation, we expect a positive relationship between the rate of change in niche position and speciation rate. \
 (b3) Since niche breadths remain relatively unchanged under the musical-chairs hypothesis, we expect no relationship between the rate of change in niche breadth and niche breadth. \
 (b4) Since niche breadths remain relatively unchanged as niches change, we do not expect a relationship between the rate of
-change in niche position and the rate of change in niche breadth.
+change in niche position and the rate of change in niche breadth. \
+**Información tomada de [(Moreira et al 2024)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14802)**
 
 **Artículo de discusión 1:** \
 [Niche Breadth: Causes and Consequences for Ecology, Evolution, and Conservation (Carscadden et al., 2020.)](https://www.journals.uchicago.edu/doi/10.1086/710388)
@@ -135,7 +133,6 @@ change in niche position and the rate of change in niche breadth.
 Estimar la posición y la amplitud del nicho para un set de espcies. \
 Para la práctica seguiremos el tutorial de [(KarasiewiczStephane/WitOMI).](https://github.com/KarasiewiczStephane/WitOMI) \
 Más información en [Within outlying mean indexes: refining the OMI analysis for the realized niche decomposition (Karasiewicz et al., 2017).](https://pmc.ncbi.nlm.nih.gov/articles/PMC5444369/)
-
 
 **Más información acerca de estos análisis en R** 
 - [Analysis of Ecological Data: Exploratory and Euclidean Methods in Environmental Sciences (ade4).](https://adeverse.github.io/ade4/) 
@@ -398,7 +395,6 @@ hierarchical niche diferentiation in midwife toads (Rodríguez‑Rodríguez  et 
 5.2 Relación morfología-ambiente \
 5.3 Métodos bioacústicos \
 5.4 Métodos radioisotópicos de estudio de la interacción organismo-ambiente 
-
 
 ### 5.1 Diversidad filogenética (PD)
 Taxon diversity (TD) is the most quantified measure of diversity, but it gives an incomplete information because the evolutionary history underlying spatial patterns is ignored.
