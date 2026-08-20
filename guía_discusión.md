@@ -12,7 +12,8 @@ La distribución de un taxón está limitada a un conjunto de ambientes y hábit
 ***Toxostoma redivivum***
 ![](figuras/grinell_example.png) 
 
-![](Grinell_statement.png)
+
+![](figuras/Grinell_statement.png) 
 
 **[Charles Elton (1927):](https://www.biodiversitylibrary.org/item/31642#page/69/mode/1p)**  El nicho debe describir lo que hace un animal en su comunidad, sus interacciones bióticas, los recursos que consume, su relación con el medio y como lo modifica. Por ejemplo, equivalentes ecológicos.
 
