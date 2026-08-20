@@ -12,7 +12,7 @@ La distribución de un taxón está limitada a un conjunto de ambientes y hábit
 ***Toxostoma redivivum***
 ![](figuras/grinell_example.png) 
 
-![](figuras/grinell_1917.png)
+![](Grinell_statement.png)
 
 **[Charles Elton (1927):](https://www.biodiversitylibrary.org/item/31642#page/69/mode/1p)**  El nicho debe describir lo que hace un animal en su comunidad, sus interacciones bióticas, los recursos que consume, su relación con el medio y como lo modifica. Por ejemplo, equivalentes ecológicos.
 
@@ -278,13 +278,9 @@ El CFN como proceso puede llevar potencialmente a la divergencia de nichos en h�
 **(e):** \
 **(f):** 
 
-El CFN como proceso (retención instantánea de nichos) podría promover la especiación (CFN como patrón), resultando ya sea en divergencia de nichos o en conservadurismo de nichos.
+El CFN como proceso (retención instantánea de nicho) podría promover la especiación (CFN como patrón), resultando ya sea en divergencia de nicho o en conservadurismo de nicho.
 
-**Factores que pueden influir en la especiación a través del CFN** \
-![](figuras/pnc_geografia.png) \
- Los eventos de especiación que ocurren en diferentes puntos a lo largo de estos ejes pueden resultar en diferentes patrones como se describe arriba de los gráficos, incluyendo conservadurismo y difernciación. \
-La **curva I** representa una variable ambiental que cambia lentamente de un valor alto a uno bajo, con poblaciones adaptadas a cada extremo encontrándose en el medio. \
-La **curva II** representa dos áreas ecológicamente similares separadas por un valor intermedio más alto para una variable ambiental dada, con dos poblaciones igualmente adaptadas acercándose al borde de sus límites de rango en esa área. 
+![](figuras/consevadurismo_nicho.png) 
 
 **Artículo de discusión 3:** \
 [Phylogenetic niche conservatism and the evolutionary basis of ecological speciation (Pyron et al., 2014).](https://onlinelibrary.wiley.com/doi/10.1111/brv.12154)
