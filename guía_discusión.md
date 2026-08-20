@@ -400,21 +400,21 @@ hierarchical niche diferentiation in midwife toads (Rodríguez‑Rodríguez  et 
 Taxon diversity (TD) is the most quantified measure of diversity, but it gives an incomplete information because the evolutionary history underlying spatial patterns is ignored.
 
 Higher PD values are given to communities that has more evolutionary divergent taxa and older history, while lower PD values represent assemblages that have taxa with more recent evolutionary history.
-![](figures/pd_diversity.png)
+![](figuras/pd_diversity.png)
 
 Many ecological patterns are processes are not independent of the evolution of the lineages involved in generating these patterns.
-![](figures/ejemplo.png)
+![](figuras/ejemplo.png)
 
 
 Related species often have similar functional traits, niches and ecological interactions, suggesting that phylogenetic diversity may encapsulate many of the functionally important aspects of biodiversity. Hence, PD is related to ecosystem function [Srivastava et al., 2012.](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2012.01795.x)
-![](figures/pd_ecosystem_function.png)
+![](figuras/pd_ecosystem_function.png)
 
 At the community level, phylogenetic clustering which is often regarded as evidence of environmental filtering, while phylogenetic overdispersion is often associated to limiting similarity. 
-![](figures/pd_patterns.png)
+![](figuras/pd_patterns.png)
 
 **Nota:** Nevertheless, these hypothetical links assume many ecological and evolutionary processes.
 
-![](figures/table1_webb.png)\
+![](figuras/table1_webb.png)\
 [Webb et al., 2002.](https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.33.010802.150448)\
 When species **traits** responsible for their physiological tolerances are **conserved**, an **environmental filtering** that limits the range of viable ecological strategies at a given site is expected to select **co-occurring species more related** than expected by chance, i.e. generate a pattern known as **phylogenetic clustering**.
 
@@ -422,7 +422,7 @@ When species **traits** responsible for their physiological tolerances are **con
 
 When **traits are diverging faster** across the evolutionary time, the effects of habitat filtering should be weaker, producing **evenly dispersed patterns** of relatedness.
 
-![](figures/convergence.png)
+![](figuras/convergence.png)
 
 **Competition** or limiting similarity is expected to produce **random** or **clustered patterns**.
 
