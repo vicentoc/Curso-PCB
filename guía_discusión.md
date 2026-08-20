@@ -229,7 +229,7 @@ Este resultado se mantiene incluso asumiendo: (i) **N***F* constante, (ii) ausen
 
 [Ecological niche shifts and environmental space anisotropy: a cautionary note (Soberón & Peterson 2011)](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-34532011000400032).
 
-**Práctica 4.3:** Modelos de nicho ecológico. \
+**Práctica 4.3: Modelos de nicho ecológico.**
 Vamos a emplear un enfoque de MNE basado en elipses.
 Esta práctica está basada en:
 -  [ellipsenm (Marlon Cobos et al 2019)](https://github.com/marlonecobos/ellipsenm).
@@ -301,7 +301,7 @@ Resultados del espacio filoclímatico para ocho especies actuales de la familia 
 
 [Bears into the Niche-Space: Phylogeography and Phyloclimatic Model of the Family Ursidae (Luna-Aranguré & Vázquez-Domínguez 2024).](https://www.mdpi.com/1424-2818/16/4/223)
 
-**Práctica 4.5: Phylomorphospace** \
+**Práctica 4.4: Phylomorphospace** \
 En esta práctica vamos a revisar algunos de los análisis presentados en [(Luna-Aranguré & Vázquez-Domínguez 2024).](https://www.mdpi.com/1424-2818/16/4/223)
 
 Esta práctica está basada en:
@@ -365,22 +365,7 @@ Relaciones entre la diversidad genética y la centralidad en *Lynx rufus*. El pa
 
 [Environmentally driven phenotypic convergence and niche conservatism accompany speciation in hoary bats (Soto‑Centeno & Simmons 2022).](https://www.nature.com/articles/s41598-022-26453-y)
 
-### Bonus
-**Zonas de contacto** \
-![](figuras/hybrid_zones.png) \
-Las zonas híbridas son regiones en las que poblaciones distintas se encuentran, se emparejan y producen descendencia genéticamente mezclada, es decir, híbrida. Por lo tanto, las zonas híbridas ofrecen una visión sobre las barreras genéticas que subyacen al origen de las especies.
-
-[Hybrid zones (Wielstra 2021).](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31758-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220317589%3Fshowall%3Dtrue)
-
-**Modificaciones a nivel **Mitocondrial** - **Fenotípico** - **Genómico** - **Conductual**** \
-![](figuras/clines.png) \
-Clinas geográficas que muestran la transición de: \
-(A) Caracteres genéticos a lo largo del gradiente TMVB. \
-(B) Caracteres Fenotípicos a lo largo del gradiente TMVB. 
-
-[Hybrid zone or hybrid lineage: a genomic reevaluation of Sibley’s classic species conundrum in *Pipilo towhees* (DeRaad et al 2022).](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.12343)
-
-**Práctica 4.6: Comparación de nicho.**
+**Práctica 4.5: Comparación de nicho.**
 
 Esta práctica está basada en:
 -  [ellipsenm (Marlon Cobos et al 2019)](https://github.com/marlonecobos/ellipsenm).
@@ -441,5 +426,3 @@ If communities are assembled independently with respect to traits (e.g., Hubbell
 Phylogenetic diversity and the functioning of ecosystems [Srivastava et al., 2012.](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2012.01795.x) 
 
 Acá un excelente manual de *Community Phylogenetics in R* por [Pedro Henrique P. Braga & Katherine Hébert](https://pedrohbraga.github.io/CommunityPhylogenetics-Workshop/CommunityPhylogenetics-Workshop.html).
-
-
