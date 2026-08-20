@@ -51,7 +51,7 @@ Haz un ejercicio similar para una región de tu interés.
 
 
 ## 4.2 Preferencias ambientales
-Las características de las especies determinan el rango de condiciones ambientales en las que cada especie puede ocurrir, y se espera que las abundancias alcancen su máximo cuando las características coinciden mejor con las condiciones ambientales (Heino & Grönroos, 2014).
+Las características de las especies determinan el rango de condiciones ambientales en las que cada especie puede estar presente, y se espera que las abundancias alcancen su máximo cuando las características coinciden mejor con las condiciones ambientales (Heino & Grönroos, 2014).
 
 Diferencias en los rasgos determinan las capacidades de las especies para explotar ya sea hábitats comunes (**posición del nicho**) o una variedad de hábitats (**amplitud del nicho**) y la posición y amplitud del nicho, a su vez, afectan la abundancia y la ocupación.
 
