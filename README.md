@@ -31,9 +31,9 @@ Proveer las bases teóricas y prácticas para comprender, diseñar y ejecutar es
 ---
 | Clase	| Unidad	| Tema	| Discusión | Prácticas |
 |-------|------|-------|-------|---------|
-|6	|Unidad 4	|Función de las especies |	 Artículo 1| Práctica 1 |
-|7	|Unidad 4	|Preferencias ambientales y cambios en el hábitat	| Artículo 2|Práctica 2 |
+|6	|Unidad 4	|Preferencias ambientales |	 Artículo 1| Práctica 1 |
+|7	|Unidad 4	|Preferencias ambientales 	| Artículo 2|Práctica 2 |
 |8	|Unidad 4	|Conservadurismo de nicho|	 Artículo 3|Práctica 3 |
-|9	|Unidad 5 |Diversidad filogenética |	 Artículo 4|Práctica 4 |
-|10	|Unidades 4-5 | Unidades 4-5 |	Seminarios|
+|9	|Unidad 5 |Cambios en el hábitat|	 Artículo 4|Práctica 4 |
+|10	|Unidade 5 | Diversidad filogenética |Seminarios/Discusión|
 |11	|Unidad 5	|Métodos bioacústicos	| Invitado|
