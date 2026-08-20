@@ -35,5 +35,5 @@ Proveer las bases teóricas y prácticas para comprender, diseñar y ejecutar es
 |7	|Unidad 4	|Preferencias ambientales y cambios en el hábitat	| Artículo 2|Práctica 2 |
 |8	|Unidad 4	|Conservadurismo de nicho|	 Artículo 3|Práctica 3 |
 |9	|Unidad 5 |Diversidad filogenética |	 Artículo 4|Práctica 4 |
-|10	|Unidades 4-5 | Unidades 4-5 |	Seminario|
+|10	|Unidades 4-5 | Unidades 4-5 |	Seminarios|
 |11	|Unidad 5	|Métodos bioacústicos	| Invitado|
