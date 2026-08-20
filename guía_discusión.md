@@ -112,6 +112,22 @@ abundance and occupancy; species that used the most common environmental conditi
 - Los patrones de abundancia y ocupación pueden estar determinados por combinaciones de varias características en lugar de por características individuales (por ejemplo, el tamaño corporal y el gremio trófico.
 - La distinción de cada especie en términos de composición de características en comparación con el resto de la comunidad puede ser un factor clave.
 
+**Relaciones entre variables si la especiación relacionada con nicho climático está asociada con la hipotesis de oscilación o el juego de las sillas**
+
+![](figuras/nicho_hyphothesis.png)
+
+(a1) We expect to find a positive relationship between the rate of change in niche breadth and the speciation rate. \
+(a2) Given that lineages oscillate between wide and narrow niches as they speciate, we also expect a positive relationship between the speciation rate and the
+rate of change in niche position, assuming that changes in climatic niche are an important driver of speciation. \
+(a3) We expect a negative relationship between niche breadth and the rate of change in niche breadth among species. Adaptation to new environmental conditions is followed by lineage splitting and specialisation. Thus, repeated range expansions and contractions should lead to narrower niche breadths over time. \
+(a3) We expect a positive relationship between the rate of change in niche breadth and the rate of change in niche position. If lineages first expand their niche breadths and then split into different species (each in different environments and with narrower niches). \
+(b1) We expect no relationship between the rate of change in niche breadth and speciation rates. Lineages are thought to maintain similar niche
+breadths over time as they change in niche position. \
+(b2) Given climate-related speciation, we expect a positive relationship between the rate of change in niche position and speciation rate. \
+(b3) Since niche breadths remain relatively unchanged under the musical-chairs hypothesis, we expect no relationship between the rate of change in niche breadth and niche breadth. \
+(b4) Since niche breadths remain relatively unchanged as niches change, we do not expect a relationship between the rate of
+change in niche position and the rate of change in niche breadth.
+
 **Artículo de discusión 1:** \
 [Niche Breadth: Causes and Consequences for Ecology, Evolution, and Conservation (Carscadden et al., 2020.)](https://www.journals.uchicago.edu/doi/10.1086/710388)
 
@@ -186,10 +202,6 @@ in the invaded range (i.e., not used in the native range, even when available; d
 ![La dualidad de Hutchinson](figuras/Huntchinsons_duality.png) \
 La imagen fue tomada de Soberón et al., 2017. [Click aquí para ver la imagen y la nota en Revista Mexicana de Biodiversidad.](https://www.redalyc.org/journal/425/42551127018/html/)
 
-Aquí otro ejemplo.
-
-
-
 **Desplazamientos en el nicho y la anisotropía del espacio ambiental**
 
 Está claro que el mismo nicho fundamental NF, expresado en diferentes regiones con espacios ambientales correspondientemente distintos E' y E'', producirá distintos nichos fundamentales existentes y, por lo tanto, con alta probabilidad, diferentes NR, incluso en ausencia de competidores y procesos evolutivos.
@@ -201,7 +213,6 @@ A pesar de una amplia superposición general, las combinaciones climáticas corr
 Este resultado se mantiene incluso asumiendo: (i) **N***F* constante, (ii) ausencia de competidores o interactores de cualquier tipo, y (iii) equilibrio total de dispersión dentro de cada subregión.
 
 [Ecological niche shifts and environmental space anisotropy: a cautionary note (Soberón & Peterson 2011)](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-34532011000400032).
-
 
 **Práctica 4.3:** Modelos de nicho ecológico. \
 Vamos a emplear un enfoque de MNE basado en elipses.
