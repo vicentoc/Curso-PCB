@@ -30,19 +30,20 @@ La distribución de las dos especies involucradas se muestra en el panel derecho
 
 ![](figuras/hutchinson_1957.png)
 
-**Conclusión:** Cuando hablamos de **nicho** tenemos que tener en cuenta la definición que estamos siguiendo, porque como vimos, nicho puede significar predominancia de las interacciones bióticas, o  su ausencia y énfasis en las condiciones abióticas.
+**Conclusión:** Cuando hablamos de **nicho ecológico** tenemos que tener en cuenta la definición que estamos siguiendo, porque como vimos, nicho puede significar predominancia de las interacciones bióticas, o  su ausencia y énfasis en las condiciones abióticas.
 
 **Lectura recomendada** \
 [Niche theory and its relation to morphology and phenotype in geographic space: a case study in woodpeckers (Picidae; Cooper 2018).](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/jav.01771)
 
-Cómo se distribuyen en el espacio geográfico algunos de los principales biomas presentes en el continente Americano. 
+**Cómo se distribuyen en el espacio geográfico algunos de los principales biomas presentes en el continente Americano.**
 
-![](figuras/ecosystem_in_geographical_space.png) \
-Como se distribuyen esos mismos biomas en el espacio ambiental con base en los dos primeros componentes de un análisis de PCA.
+![](figuras/ecosystem_in_geographical_space.png) 
+
+**Cómo se distribuyen esos mismos biomas en el espacio ambiental con base en los dos primeros componentes de un análisis de PCA.**
 
 ![](figuras/ecosystems_ecological_space.png)
 
-Práctica 4.1: Espacio geográfico y espacio ambiental.
+**Práctica 4.1: Dualidad de Hutchinson: Espacio geográfico y espacio ambiental.**
 Los materiales necesarios para replicar las imágenes de los biomas de América en el espacio geográfico y ecológico se encuentran en la carpeta practica3_espacio_ecol_and_geog.
 
 ## 4.2 Preferencias ambientales
