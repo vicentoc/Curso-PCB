@@ -33,6 +33,11 @@ La distribución de las dos especies involucradas se muestra en el panel derecho
 
 **Conclusión:** Cuando hablamos de **nicho ecológico** tenemos que tener en cuenta la definición que estamos siguiendo, porque como vimos, nicho puede significar predominancia de las interacciones bióticas, o  su ausencia y énfasis en las condiciones abióticas.
 
+**Artículo de discusión 1:** \
+[INTERPRETATION OF MODELS OF FUNDAMENTAL ECOLOGICAL NICHES AND SPECIES’ DISTRIBUTIONAL AREAS (Soberón and Peterson, 2005.)](https://journals.ku.edu/jbi/article/view/4)
+
+![](figuras/niches_worlds.png)
+
 **Lectura recomendada** \
 [Niche theory and its relation to morphology and phenotype in geographic space: a case study in woodpeckers (Picidae; Cooper 2018).](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/jav.01771)
 
@@ -138,7 +143,7 @@ change in niche position and the rate of change in niche breadth. \
 ![](figuras/relaciones_nb_np.png)}
 **Información tomada de [(Heino 2005)](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.0906-7590.2005.04151.x)**
 
-**Artículo de discusión 1:** \
+**Artículo de discusión 2:** \
 [Niche Breadth: Causes and Consequences for Ecology, Evolution, and Conservation (Carscadden et al., 2020.)](https://www.journals.uchicago.edu/doi/10.1086/710388)
 
 **Práctica 4.2 Métricas del nicho: posición y amplitud.** \
