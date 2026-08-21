@@ -31,7 +31,7 @@ Proveer las bases teóricas y prácticas para comprender, diseñar y ejecutar es
 ---
 | Clase	| Unidad	| Tema	| Discusión | Prácticas |
 |-------|------|-------|-------|---------|
-|6	|Unidad 4	|Preferencias ambientales |	[ECOLOGICAL NICHES](https://journals.ku.edu/jbi/article/view/4)| Práctica 1 |
+|6	|Unidad 4	|Preferencias ambientales |	[Ecological Niches](https://journals.ku.edu/jbi/article/view/4)| Práctica 1 |
 |7	|Unidad 4	|Preferencias ambientales 	| Artículo 2|Práctica 2 |
 |8	|Unidad 4	|Conservadurismo de nicho|	 Artículo 3|Práctica 3 |
 |9	|Unidad 5 |Cambios en el hábitat|	 Artículo 4|Práctica 4 |
