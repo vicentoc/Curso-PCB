@@ -176,7 +176,7 @@ Cambios ambientales antropogénicos: al aceleramiento del cambio climático, la 
 
 Las áreas que antes formaban parte del rango de una especie pueden volverse desfavorables y nuevas áreas pueden volverse adecuadas. Por lo tanto, se espera que los rangos de las especies se desplacen en respuesta a los cambios globales, reorganizando la biodiversidad del planeta. Muchas especies ya han extendido sus rangos tanto latitudinal como longitudinalmente.
 
-**Artículo de discusión 2:** \
+**Artículo de discusión 3:** \
 [Accessible areas in ecological niche comparisons of invasive species: Recognized but still overlooked (Qiao et al., 2017)](https://www.nature.com/articles/s41598-017-01313-2). El cuál es una reinterpretación de [Febbraro et al., 2012,](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0066559&type=printable) quienes hacen un análisis del caso de invasión de la ardilla gris en las Islas Británicas. 
 
 **A qué escala temporal operan los cambios en el nicho?** \
@@ -288,7 +288,7 @@ El CFN como proceso (retención instantánea de nicho) podría promover la espec
 
 ![](figuras/consevadurismo_nicho.png) 
 
-**Artículo de discusión 3:** \
+**Artículo de discusión 4:** \
 [Phylogenetic niche conservatism and the evolutionary basis of ecological speciation (Pyron et al., 2014).](https://onlinelibrary.wiley.com/doi/10.1111/brv.12154)
 
 **Aplicación en el filo-morfo espacio (Phylomorphospace)**
