@@ -9,7 +9,7 @@
 
 **Nicho**
 
-![](nicho.png)
+![](nicho_def.png)
 
 **[Grinell (1917):](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=7985&context=auk)** 
 La distribución de un taxón está limitada a un conjunto de ambientes y hábitats a los que su comportamiento y morfología están mejor adaptados.
