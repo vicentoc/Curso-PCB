@@ -37,6 +37,7 @@ La distribución de las dos especies involucradas se muestra en el panel derecho
 [INTERPRETATION OF MODELS OF FUNDAMENTAL ECOLOGICAL NICHES AND SPECIES’ DISTRIBUTIONAL AREAS (Soberón and Peterson, 2005.)](https://journals.ku.edu/jbi/article/view/4)
 
 **El modelo BAM**
+
 ![](figuras/BAM.png)
 
 **Escenarios BAM**
