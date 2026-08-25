@@ -428,6 +428,3 @@ De acuerdo con [Webb et al., 2002:](https://www.annualreviews.org/content/journa
 
 - When **traits are diverging faster** across the evolutionary time, the effects of habitat filtering should be weaker, producing **evenly dispersed patterns** of relatedness.
 
-- **Competition** or limiting similarity is expected to produce **random** or **clustered patterns**.
-
-- If communities are assembled independently with respect to traits (e.g., Hubbell 2001), then patterns of relatedness should be resemble **random expectation**.
