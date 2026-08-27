@@ -393,18 +393,6 @@ Esta práctica está basada en:
 hierarchical niche diferentiation in midwife toads (Rodríguez‑Rodríguez  et al., 2020).](https://www.nature.com/articles/s41598-020-67992-6)
 - [Combining niche shift and population genetic analyses predicts rapid phenotypic evolution during invasion (Sotka  et al., 2018).](https://onlinelibrary.wiley.com/doi/10.1111/eva.12592)
 
-**PCB** \
-**2025-2** \
-**Bases ecológicas y genómicas de la interacción organismo-ambiente.**
-
-## Unidad 5
-### Interacción fenotipo-ambiente
-
-5.1 Diversidad funcional y filogenética \
-5.2 Relación morfología-ambiente \
-5.3 Métodos bioacústicos \
-5.4 Métodos radioisotópicos de estudio de la interacción organismo-ambiente 
-
 ### 5.1 Diversidad filogenética (PD)
 Taxon diversity (TD) is the most quantified measure of diversity, but it gives an incomplete information because the evolutionary history underlying spatial patterns is ignored.
 
